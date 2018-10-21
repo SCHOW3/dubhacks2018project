@@ -1,4 +1,5 @@
-# dubhacks2018project repository with a simple react app connected to a node.js backend.
+# dubhacks2018project
+repository with a simple react app connected to a node.js backend.
 - clone the Repository
 - ensure NPM and Node is installed. 
 - from the dubhacks2018project folder run node server.js
